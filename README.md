@@ -5,11 +5,12 @@ Raquel Amaral de Oliveira -RM: 566491
 Rogério Deligi Ferreira Filho -RM: 561942
 
 O Rogério fez a primeira parte no grupo "Squad CodeCrafters".
-Raquel e giovana fizeram a primeira parte no grupo "Vans"
+Raquel e Giovana fizeram a primeira parte no grupo "Vans"
+A Maria Fernanda fez a primeira parte no grupo "Push no caos"
 
 Calculadora-funcoes - Calculadora interativa feita em C que , soma,
 divide, multiplica e subtrai. Após a conta retorna e possibilita que sejam
-feitas outras contas. (Rogério)
+feitas outras contas. (Rogério e Maria Fernanda)
 
 Media-aluno - Calculador de média que recebe o nome e notas do aluno e através da nota. Calcula se o mesmo foi aprovado, está em recuperação ou foi reprovado. (Raquel)
 
